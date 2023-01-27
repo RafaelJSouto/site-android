@@ -90,10 +90,10 @@ main{
     border-bottom-right-radius: 10px;
 }
 main img{
-    width: 20%;
+    width: 100%;
 }
 main img.pequena{
-    max-width: 100px;
+    max-width: 350px;
     display: block;
     margin: auto;
 }
